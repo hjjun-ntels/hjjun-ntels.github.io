@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:tony990205@email.com
+      url: mailto:tony990205@naver.com
     - label: "Portfolio"
       icon: "fas fa-fw fa-link"
       url: "https://www.notion.so/portfolio-119d8767b53f80ba8c93d5a56f4af381"
@@ -127,10 +127,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/hanjucoding/"
+      url: "https://github.com/hjjun-ntels"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/hanju_0205/"
+      url: "https://instagram.com/han.dsome.ju/"
 
 # Site Footer
 footer:
